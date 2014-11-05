@@ -1,0 +1,24 @@
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>To The Lighthouse</title>
+				<author>Virginia Woolf</author>	
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<name>Leonard & Virginia Woolf</name>
+					<placeName>Hogarth Press</placeName>
+				</publisher>
+				<pubPlace>
+					<address>52 Tavistock Square, London WC</address>
+				</pubPlace>
+				<date>1927</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>This one time, I decided to get an MA in Digital Humanities and this
+				is an assignment that I'm doing.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	</TEI>
