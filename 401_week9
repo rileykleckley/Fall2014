@@ -1,0 +1,15 @@
+<?php
+$total1=sqrt(12)+8/2;
+$total2=round($total1);
+echo "<p>The square root of 12 plus 8 divided by 2, 
+rounded to the nearest integer is $total2</p>";
+
+$total3=sqrt(15)-9*4;
+$total4=round($total3);
+echo "<p>The square root of 15 minus 9 times 4,
+rounded to the nearest integer is $total4</p>";
+
+$total5=max($total2, $total4);
+echo "<p>The larger of these two numbers is $total5</p>";
+
+?>
