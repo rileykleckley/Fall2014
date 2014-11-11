@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue.xml">
+
+<xsl:template match="/">
+<html>
+<body>
+<h2>Tarantino Films</h2>
+<table>
+	<tr>
+		<th>title</th>
+		<th>author</th>
+		<th>year</th>
+	</tr>
+	<xsl:for-each select="catalogue/film[editor='Sally Menke']">
+	<tr>
+		<td>xsl:value-of select="title"/></td>
+		<td>xsl:value-of select="author"/></td>
+	</tr>
+	</xsl:for-each>
+</table>
+</body>
+</html>
+</xsl:template>	
