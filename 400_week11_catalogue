@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+<biblFull>
+	<titleStmt>
+		<title>Pulp Fiction</title>
+		<author>Quentin Tarantino</author>
+		<editor>Sally Menke</editor>
+		<respStmt job="cinematographer">Andrezej Sekula</respStmt>
+		<respStmt job="screenwriter">Quentin Tarantino</respStmt>
+		<respStmt job-"producer">Lawrence Bender</respStmt>
+		<respStmt job="actor">John Travolta</respStmt>
+		<respStmt job="actor">Samuel L. Jackson</respStmt>
+		<respStmt job="actor">Uma Thurman</respStmt>
+		<respStmt job="actor">Harvey Keitel</respStmt>
+		<respStmt job="actor">Tim Roth</respStmt>	
+		<respStmt job="actor">Amanda Plummer</respStmt>
+		<respStmt job="actor">Ving Rhames</respStmt>
+		<respStmt job="actor">Bruce Willis</respStmt>				
+	</titleStmt>
+	<extent unit="minutes">154</extent>
+	<publicationStmt>
+		<date>1994</date>
+		<distributor>Miramax Films</distributor>
+	</publicationStmt>	
+	
+	<titleStmt>
+		<title>Reservoir Dogs</title>
+		<author>Quentin Tarantino</author>
+		<editor>Sally Menke</editor>
+		<respStmt job="cinematographer">Andrezej Sekula</respStmt>
+		<respStmt job="screenwriter">Quentin Tarantino</respStmt>
+		<respStmt job="producer">Lawrence Bender</respStmt>
+		<respStmt job="actor">Harvey Keitel</respStmt>
+		<respStmt job="actor">Tim Roth</respStmt>
+		<respStmt job="actor">Chris Penn</respStmt>
+		<respStmt job="actor">Steve Buscemi</respStmt>
+		<respStmt job="actor">Lawrence Tierney</respStmt>	
+		<respStmt job="actor">Michael Madsenr</respStmt>			
+	</titleStmt>
+	<extent unit="minutes">99</extent>
+	<publicationStmt>
+		<date>1992</date>
+		<distributor>Miramax Films</distributor>
+	</publicationStmt>
+	
+	<titleStmt>
+		<title>Jackie Brown</title>
+		<author>Quentin Tarantino</author>
+		<editor>Sally Menke</editor>
+		<respStmt job="cinematographer">Guillermo Navarro</respStmt>
+		<respStmt job="screenwriter">Quentin Tarantino</respStmt>
+		<respStmt job="producer">Lawrence Bender</respStmt>
+		<respStmt job="actor">Pam Grier</respStmt>
+		<respStmt job="actor">Samuel L. Jackson</respStmt>
+		<respStmt job="actor">Robert Forster</respStmt>
+		<respStmt job="actor">Bridget Fonda</respStmt>
+		<respStmt job="actor">Michael Keaton</respStmt>	
+		<respStmt job="actor">Robert DeNiro</respStmt>			
+	</titleStmt>
+	<extent unit="minutes">154</extent>
+	<publicationStmt>
+		<date>1997</date>
+		<distributor>Miramax Films</distributor>
+	</publicationStmt>
+	
+	<titleStmt>
+		<title>Inglourious Basterds</title>
+		<author>Quentin Tarantino</author>
+		<editor>Sally Menke</editor>
+		<respStmt job="cinematographer">Robert Richardson</respStmt>
+		<respStmt job="screenwriter">Quentin Tarantino</respStmt>
+		<respStmt job="producer">Lawrence Bender</respStmt>
+		<respStmt job="actor">Brad Pitt</respStmt>
+		<respStmt job="actor">Melanie Laurent</respStmt>
+		<respStmt job="actor">Christoph Waltz</respStmt>
+		<respStmt job="actor">Michael Fassbender</respStmt>
+		<respStmt job="actor">Eli Roth</respStmt>	
+		<respStmt job="actor">Diane Kruger</respStmt>
+		<respStmt job="actor">Daniel Bruhl</respStmt>			
+	</titleStmt>
+	<extent unit="minutes">152</extent>
+	<publicationStmt>
+		<date>2009</date>
+		<distributor>The Weinstein Company</distributor>
+	</publicationStmt>
+	
+	<titleStmt>
+		<title>Django Unchained</title>
+		<author>Quentin Tarantino</author>
+		<editor>Fred Raskin</editor>
+		<respStmt job="cinematographer">Robert Richardson</respStmt>
+		<respStmt job="screenwriter">Quentin Tarantino</respStmt>
+		<respStmt job="producer">Stacey Sher</respStmt>
+		<respStmt job="producer">Reginald Hudlin</respStmt>
+		<respStmt job="producer">Pilar Savone</respStmt>
+		<respStmt job="actor">Jamie Foxx</respStmt>
+		<respStmt job="actor">Christoph Waltz</respStmt>
+		<respStmt job="actor">Leonardo DiCaprio</respStmt>
+		<respStmt job="actor">Kerry Washington</respStmt>
+		<respStmt job="actor">Samuel L. Jackson</respStmt>				
+	</titleStmt>
+	<extent unit="minutes">165</extent>
+	<publicationStmt>
+		<date>2012</date>
+		<distributor>The Weinstein Company</distributor>
+	</publicationStmt>
+</biblFull>
+</catalogue>
