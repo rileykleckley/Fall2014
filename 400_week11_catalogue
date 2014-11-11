@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalogue>
 <biblFull>
+	<film>
 	<titleStmt>
 		<title>Pulp Fiction</title>
 		<author>Quentin Tarantino</author>
@@ -22,7 +23,8 @@
 		<date>1994</date>
 		<distributor>Miramax Films</distributor>
 	</publicationStmt>	
-	
+	</film>
+	<film>
 	<titleStmt>
 		<title>Reservoir Dogs</title>
 		<author>Quentin Tarantino</author>
@@ -42,7 +44,8 @@
 		<date>1992</date>
 		<distributor>Miramax Films</distributor>
 	</publicationStmt>
-	
+	</film>
+	<film>
 	<titleStmt>
 		<title>Jackie Brown</title>
 		<author>Quentin Tarantino</author>
@@ -62,7 +65,8 @@
 		<date>1997</date>
 		<distributor>Miramax Films</distributor>
 	</publicationStmt>
-	
+	</film>
+	<film>
 	<titleStmt>
 		<title>Inglourious Basterds</title>
 		<author>Quentin Tarantino</author>
@@ -83,7 +87,8 @@
 		<date>2009</date>
 		<distributor>The Weinstein Company</distributor>
 	</publicationStmt>
-	
+	</film>
+	<film>
 	<titleStmt>
 		<title>Django Unchained</title>
 		<author>Quentin Tarantino</author>
@@ -104,5 +109,7 @@
 		<date>2012</date>
 		<distributor>The Weinstein Company</distributor>
 	</publicationStmt>
+	</film>
 </biblFull>
 </catalogue>
+	
