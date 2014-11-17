@@ -1,0 +1,11 @@
+<?php
+$books = array();
+$books[0] = 'Mother Night';
+$books[1] = 'Slaughterhouse-Five';
+$books[2] = 'The Sirens of Titan';
+echo $books[0].'<br />';
+array_push($books, 'Slaughterhouse-Five');
+echo $books[2]. '<br />';
+array_pop($books[1], 'Slaughterhouse-Five');
+echo array_shift($books);
+?>
