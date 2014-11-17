@@ -1,0 +1,13 @@
+<?php
+$todo = array();
+$todo[0] = 'Go to Whole Foods';
+$todo[1] = 'Bake cookies';
+$todo[2] = 'Do assignments for class';
+$todo[3] = 'Watch Monday Night Football';
+$todo[4] = 'Get hella distracted by videos of Gary Busey yelling';
+$todo[5] = 'Curse the internet for existing';
+$todo[6] = 'Feel bad about cursing the internet';
+echo $todo[0] '<br />';
+echo $todo[2] '<br />';
+echo array_push($todo, 'Not get so distracted by stupid things');
+echo $todo[7];
