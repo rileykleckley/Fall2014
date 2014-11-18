@@ -1,0 +1,10 @@
+<?php
+$books = array();
+$books[0] = 'Slaughterhouse-Five';
+echo $books[0].'<br />';
+array_push($books, 'The Sirens of Titan', 'Deadeye Dick', 'Mother Night', 'Cats Cradle');
+$books['library'] = 'Library';
+print_r($books);
+array_pop($books, 'Deadeye Dick');
+echo '<br />Library = '.$books['library'];
+?>
