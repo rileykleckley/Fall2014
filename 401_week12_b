@@ -1,0 +1,12 @@
+<?php
+$todo = array();
+$todo[0] = 'Go to the gym';
+$todo[1] = 'Make dinner';
+$todo[2] = 'Do assignments for class';
+$todo[3] = 'Watch Monday Night Football';
+echo array_push($todo,'Get distracted by Monday Night Football',
+'Read stuff about how fantasy football scoring works', 'oops more distractions');
+$todo['list'] = 'To Do List';
+print_r($todo);
+echo '<br />To Do List = '.$todo['list'];
+?>
